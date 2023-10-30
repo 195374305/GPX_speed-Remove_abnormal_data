@@ -8,4 +8,4 @@ Calculate the speed &amp; Remove_abnormal_data
 * 计算出速度，并且补全速度
 * 计算出异常数据：包括高度，速度等  并且移出异常数据
 
-
+<img src='height.png'></img>
